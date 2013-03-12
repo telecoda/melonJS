@@ -41,6 +41,7 @@ MODULE = $(srcdir)/core.js\
 	 $(srcdir)/debug/debug.js\
 	 $(srcdir)/entity/camera.js\
 	 $(srcdir)/entity/sprite.js\
+	 $(srcdir)/entity/texturepacker.js\
 	 $(srcdir)/entity/entity.js\
 	 $(srcdir)/font/font.js\
 	 $(srcdir)/GUI/GUI.js\
